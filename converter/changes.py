@@ -1,2 +1,2 @@
 from converter import factorial
-print(factorial(30))
+print(factorial(20))
